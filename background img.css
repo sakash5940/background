@@ -1,0 +1,48 @@
+body{
+    background-image:url(https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+h1{
+    background-color: rgb(255, 0, 85);
+
+}
+.h{
+    font-weight: 200px;
+background-color: aqua;
+text-shadow: 5px 5px red;
+text-decoration: overline;
+}
+h3{
+    font-style: italic;
+    direction: rtl;
+    text-shadow: 5px 5px blue;
+    text-decoration:bottom  overline;
+    
+}
+.a img { 
+    box-shadow: 5px 5px red;
+    border: 2px solid;
+    height: 300px;
+    width: 300;
+    object-fit: cover;
+    object-position: center top;
+    margin-bottom: 20px;
+}
+.b img {
+     box-shadow: 5px 5px green;
+    border: 2px solid;
+height: 300px;
+width: 300;
+object-fit: cover;
+object-position: center top;
+margin-bottom: 20px;
+}
+.c{
+    width: 300px;
+    height: 250px;
+    word-spacing:3px;
+    background-color: aliceblue;
+    background:linear-gradient(to top right,yellow ,green, blue, red);
+    box-shadow: 10px 5px 5px rgb(192, 8, 109);
+    white-space: warp;
+}
